@@ -1,2 +1,2 @@
 # Python-Crash-course
-My leraning material
+Learnig material
